@@ -49,7 +49,7 @@ Hi, I'm **BinaryQuest** — a passionate developer, open-source contributor, and
 - **AWS Certified Cloud Practitioner**
 - **Google IT Automation with Python**
 - **Responsive Web Design (freeCodeCamp)**
-- *(Add your real certifications here!)*
+- **Heroku Achitect (Salesforce Sync)**
 
 ---
 

@@ -58,7 +58,7 @@ Hi, I'm **BinaryQuest** — a passionate developer, open-source contributor, and
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Binary-Quest&show_icons=true&theme=radical" alt="BinaryQuest's GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Binary-Quest&theme=radical" alt="GitHub Streak" />
-  <img src="https://streak-stats.demolab.com?user=binary-quest" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=binary-quest" alt="GitHub Streak" /></a>
 </p>
 
 ---
